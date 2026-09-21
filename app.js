@@ -39,6 +39,7 @@ const BADGE_MAP = {
   "Bánh tráng": "badge-banh-trang",
   "Cafe": "badge-cafe",
   "Matcha": "badge-matcha",
+  "Kem": "badge-kem",
 };
 function badgeFor(cat){
   return BADGE_MAP[cat] || "badge-vat"; // fallback nếu quên khai báo màu

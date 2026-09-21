@@ -260,11 +260,27 @@ const DATA = [
     note: "Trân châu tươi jumbo, được quảng cáo là bự nhất Tân Phú. Khách khen nước ngon, nhân viên nhiệt tình, có tặng kèm kẹo dẻo."
   },
   {
-    name: "Cha&Co Nguyễn Trãi Matcha Latte",
+    name: "Cha&Co Matcha Latte",
     categories: ["Cafe", "Matcha"],
     branches: [
       { label: "", address: "215C Nguyễn Trãi, P. Cầu Ông Lãnh, Quận 1", hours: "", phone: "" }
     ],
     note: "Quán chuyên các món matcha latte."
+  },
+  {
+    name: "Kem dừa - Ăn vặt Sawadee",
+    categories: ["Kem", "Ăn vặt"],
+    branches: [
+      { label: "", address: "Số 3 Đường 63, P. Tân Hưng, Quận 7", hours: "16:00–22:30", phone: "" }
+    ],
+    note: "Kem dừa tự làm, tan nhanh, ngọt vừa phải, nhiều topping. Giá bình dân (~15-35k), quán đông khách, có chỗ ngồi vỉa hè rộng rãi."
+  },
+  {
+    name: "Khổ Qua Cà Ớt Nhà Sam",
+    categories: ["Ăn vặt"],
+    branches: [
+      { label: "", address: "1942/118/39 Huỳnh Tấn Phát, Nhà Bè", hours: "17:00–22:00", phone: "0797 628 003 (Zalo)" }
+    ],
+    note: "Cá viên chiên, khổ qua/cà/ớt nhồi chả cá tự làm, hơn 10 loại tự chọn, giá từ 1k/món. Hợp ăn vặt nhóm bạn."
   },
 ];
